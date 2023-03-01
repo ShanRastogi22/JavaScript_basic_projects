@@ -27,3 +27,5 @@ let str = "please give Rs 1000"
 let am = Number.parseInt(str.slice('15'))
 console.log(am)
 console.log(typeof am)
+
+// code
