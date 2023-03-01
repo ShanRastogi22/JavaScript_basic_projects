@@ -29,3 +29,7 @@ console.log(am)
 console.log(typeof am)
 
 // code
+
+let friend = "anamika"
+friend[2] = "s"
+console.log(friend)
